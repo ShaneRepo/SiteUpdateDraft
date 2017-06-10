@@ -6,7 +6,12 @@ body {
     padding-bottom: 40px;
     color: #5a5a5a;
 }
-
+h1{
+    color: #080808;
+}
+p{
+    color: #080808;
+}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
